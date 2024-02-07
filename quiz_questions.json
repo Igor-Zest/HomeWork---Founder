@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Что такое Python?",
+        "options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных используется для хранения целых чисел?",
+        "options": ["str", "float", "int", "natural"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какая функция используется для вывода текста на экран в Python?",
+        "options": ["print()", "display()", "show()", "console()", "output()"],
+        "correct_option": 0
+    },
+    {
+        "question": "Как создать список в Python?",
+        "options": ["new_list()", "array()", "create_list()", "list()", "make_list()"],
+        "correct_option": 3
+    },
+    {
+        "question": "Какой символ используется для комментариев в Python?",
+        "options": ["//", "--", "#", "/*", "%"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какая функция используется для получения длины списка?",
+        "options": ["len()", "size()", "lenght()", "count()", "get_size()"],
+        "correct_option": 0
+    },
+    {
+        "question": "Как проверить, существует ли файл в Python?",
+        "options": ["file_qxist()", "is_file()", "check_file()", "exists_file()", "file_exists()"],
+        "correct_option": 1
+    },
+    {
+        "question": "Какая операция используется для объединения двух строк в Python?",
+        "options": ["join()", "merge()", "concatenate()", "combine()", "concat()"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какие скобки используются для создания кортежа в Python?",
+        "options": ["{}", "[]", "()", "<>", "//"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой метод используется для удаления элемента из списка по значению в Python?",
+        "options": ["remove()", "delete()", "erase()", "discard()", "pop()"],
+        "correct_option": 0
+    }
+]
